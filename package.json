@@ -1,0 +1,15 @@
+{
+  "name": "netlify-notepad-app",
+  "version": "1.0.0",
+  "description": "A simple notepad app deployed on Netlify with Neon database",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
